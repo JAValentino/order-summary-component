@@ -109,7 +109,7 @@ body{
 
 @media (max-width: 567px){
 	body{
-		background-image: url(images/pattern-background-mobile.svg);
+		background-image: url('images/pattern-background-mobile.svg');
 	}
 	.container{
 		max-width: 330px;
